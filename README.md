@@ -77,7 +77,7 @@ Hofstra University
 
 ---
 
-## 📌 Future Plans
+## 📌 Possible Future Plans
 
 - Add user-specified visualization options
 - Processing speed enhancements
